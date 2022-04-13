@@ -5,8 +5,6 @@
     android:layout_height="match_parent"
     tools:context=".fragment.FragmentInicio">
 
-    <!-- TODO: Update blank fragment layout -->
-
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
@@ -19,9 +17,12 @@
         android:text="@string/Jogo_da_velha" />
 
     <Button
+        android:id="@+id/button_inicio"
         android:layout_width="200dp"
         android:layout_height="68dp"
-        android:layout_marginTop="650dp"/>
+        android:layout_marginTop="500dp"
+        android:layout_marginLeft="100dp"
+        android:text="@string/button_inicio"/>
 
 
 </FrameLayout>

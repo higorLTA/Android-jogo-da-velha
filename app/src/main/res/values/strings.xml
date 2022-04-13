@@ -19,5 +19,7 @@
     <string name="tela_inicial">Voltar á tela inicial</string>
     <string name="preferencias">Preferencias</string>
     <string name="Jogo_da_velha">JOGO DA VELHA!!!</string>
+    <string name="button_inicio">JOGAR</string>
+    <string name="placar_velha">Velhas</string>
 
 </resources>
